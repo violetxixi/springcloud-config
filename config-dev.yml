@@ -2,4 +2,4 @@ config:
   info: "Spring Cloud Config 测试信息"
   user:
     name: "张三"
-    age: 25
+    age: 26

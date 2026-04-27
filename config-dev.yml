@@ -1,2 +1,5 @@
 config:
-  info: "master branch,springcloud-config/config-dev.yml version=6"
+  info: "Spring Cloud Config 测试信息"
+  user:
+    name: "张三"
+    age: 25
